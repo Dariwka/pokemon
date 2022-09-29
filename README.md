@@ -33,3 +33,8 @@ Setup
 - [x] Persist data fetched from PokemonAPI
 - [x] Create the results page with counting/sorting
 - [x] Better loading state between votes
+
+## USEFUL LINKS
+
+- [x] TailWindCss ([link here](https://tailwindcss.com/))
+- [x] tRpc ([link here](https://trpc.io/))
