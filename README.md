@@ -38,3 +38,4 @@ Setup
 
 - [x] TailWindCss ([link here](https://tailwindcss.com/))
 - [x] tRpc ([link here](https://trpc.io/))
+- [x] Pokemon API ([link here](https://pokeapi.co/))
